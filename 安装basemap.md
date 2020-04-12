@@ -1,8 +1,10 @@
 ## 1、安装步骤
 ` conda info`
+
 ` conda activate base`
 
 ` conda install geos`
+
 ` conda install pyproj`
 
 sudo pip install --user git+https://github.com/matplotlib/basemap.git
