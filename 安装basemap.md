@@ -7,7 +7,9 @@
 
 ` conda install pyproj`
 
+```
 sudo pip install --user git+https://github.com/matplotlib/basemap.git
+```
 这一步比较慢，因为克隆下来的文件很大
 
 
